@@ -50,7 +50,7 @@ const
   WHOAMI = 'MOS';
   INITFILE = 'MOS.INI';
   CODE_VERSION = '1.18';
-  CURSED_ONE = 'Siang-Chun The (39-661, x3-0733, the@caf)';
+  CURSED_ONE = 'ghst659';
 
 (*****************************************************************************
  * BASIC TOOLS

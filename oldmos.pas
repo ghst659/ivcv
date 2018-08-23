@@ -1435,7 +1435,7 @@ begin
    *)
   writeln('Welcome to MOS.');
   writeln('Code ',CODE_VERSION,';  Data format ',DATA_VERSION,'.');
-  writeln('See Siang-Chun The (39-661, x3-0733) if you find bugs/problems.');
+  writeln('See ghst659 you find bugs/problems.');
   delay(3000);
   init_environment;
   repeat
